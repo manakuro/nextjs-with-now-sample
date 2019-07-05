@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "nextjs-with-now-sample",
+  "builds": [
+    {
+      "src": "next.config.js",
+      "use": "@now/next"
+    }
+  ]
+}
